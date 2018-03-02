@@ -1,0 +1,22 @@
+[
+    {
+        "id": "faircoin",
+        "name": "FairCoin",
+        "symbol": "FAIR",
+        "rank": "298",
+        "price_usd": "0.503042",
+        "price_btc": "0.00005739",
+        "24h_volume_usd": "29125.0",
+        "market_cap_usd": "26758731.0",
+        "available_supply": "53193831.0",
+        "total_supply": "53193831.0",
+        "max_supply": null,
+        "percent_change_1h": "1.8",
+        "percent_change_24h": "7.88",
+        "percent_change_7d": "2.81",
+        "last_updated": "1",
+        "price_eur": "0.4094188412",
+        "24h_volume_eur": "23704.42975",
+        "market_cap_eur": "21778557.0"
+    }
+]
